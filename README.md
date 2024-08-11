@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Vaishnavi309Chaudhari/Vaishnavi309Chaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Science, Machine Learning, Python, SQL, Power BI, and how to approach complex data problems.
 - 📫 How to reach me: vaishnavi.chaudhari309@gmail.com
 - 😄 Pronouns: She/Her
--->
 ## About me
 As a postgraduate in mathematics with a robust mathematical background, I am an aspiring data scientist passionate about the transformative power of data in driving insightful, evidence-based decision-making. My expertise spans a wide array of data analysis, machine learning and deep learning techniques, highlighting my dedication to making significant contributions in the field of data science.
 
@@ -22,7 +20,6 @@ With hands-on experience in tools like MS Excel for data exploration, cleaning, 
 data storage and querying, I am well-prepared to tackle diverse data challenges. My end-to-end implementation skills in Data Science and Machine Learning projects include utilizing a wide range of supervised and unsupervised ML algorithms, advanced model validation techniques, feature selection, and dimensionality reduction methods.
 
 I am driven by a strong enthusiasm for learning and adopting new technologies and methodologies. My ability to quickly acquire new tools and skills enables me to stay ahead in the dynamic field of data science. I am actively seeking opportunities to further enhance my expertise and ensure continuous growth in my data science career.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vaishnavi.chaudhari03/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vaishnavi-chaudhari-a04311261/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@vaishnavi.chaudhari309) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/vaishnavi309/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23227690/vaishnavi-chaudhari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vaishna37683843) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@vaishnavichaudhari4066) 
