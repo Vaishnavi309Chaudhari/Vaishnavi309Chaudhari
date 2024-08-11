@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vaishnavi.chaudhari309@gmail.com
 - 😄 Pronouns: She/Her
 -->
+## About me
+As a postgraduate in mathematics with a robust mathematical background, I am an aspiring data scientist passionate about the transformative power of data in driving insightful, evidence-based decision-making. My expertise spans a wide array of data analysis, machine learning and deep learning techniques, highlighting my dedication to making significant contributions in the field of data science.
+
+I possess strong proficiency in exploratory data analysis (EDA) and various facets of data analysis. My technical toolkit includes mastery of R for machine learning and text mining, coupled with advanced machine learning techniques. I am well-versed in Deep Learning, including Neural Networks, ANN, CNN, and RNN architectures, as well as Natural Language Processing (NLP) and text preprocessing.
+
+With hands-on experience in tools like MS Excel for data exploration, cleaning, and ETL, and MySQL for 
+data storage and querying, I am well-prepared to tackle diverse data challenges. My end-to-end implementation skills in Data Science and Machine Learning projects include utilizing a wide range of supervised and unsupervised ML algorithms, advanced model validation techniques, feature selection, and dimensionality reduction methods.
+
+I am driven by a strong enthusiasm for learning and adopting new technologies and methodologies. My ability to quickly acquire new tools and skills enables me to stay ahead in the dynamic field of data science. I am actively seeking opportunities to further enhance my expertise and ensure continuous growth in my data science career.
 
 
 ## 🌐 Socials:
