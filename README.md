@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-**Vaishnavi309Chaudhari/Vaishnavi309Chaudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Enhancing my skills in Data Science and Artificial Intelligence, focusing on real-world applications and advanced machine learning projects.
