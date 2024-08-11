@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 [![](https://visitcount.itsvg.in/api?id=Vaishnavi309Chaudhari&icon=0&color=0)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on Enhancing my skills in Data Science and Artificial Intelligence, focusing on real-world applications and advanced machine learning projects.
 - 🌱 I’m currently learning Deep Learning, Natural Language Processing, and Advanced Statistical Methods to further refine my data science expertise
 - 👯 I’m looking to collaborate on Data-driven projects, machine learning challenges, and innovative AI solutions that make a real-world impact.
@@ -29,10 +29,10 @@ I am driven by a strong enthusiasm for learning and adopting new technologies an
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vaishnavi309Chaudhari&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vaishnavi309Chaudhari&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
